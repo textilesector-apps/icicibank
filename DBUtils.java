@@ -1,3 +1,2 @@
-Hello everyone
-I am updating this file 
 This is Database file ... which contain some db logic ... 
+
